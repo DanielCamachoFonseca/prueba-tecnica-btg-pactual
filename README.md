@@ -311,8 +311,8 @@ aws cloudformation create-stack \
 
 ## 👥 Autor
 
-BTG Pactual Technical Test
+**Daniel Camacho Fonseca**
 
 ## 📄 Licencia
 
-Uso interno - BTG Pactual
+MIT License

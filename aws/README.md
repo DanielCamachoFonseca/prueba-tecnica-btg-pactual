@@ -143,3 +143,7 @@ aws cloudformation rollback-stack --stack-name btg-funds-api-stack
 ```bash
 aws cloudformation delete-stack --stack-name btg-funds-api-stack
 ```
+
+## Autor
+
+**Daniel Camacho Fonseca**
