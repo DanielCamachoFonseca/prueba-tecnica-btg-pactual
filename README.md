@@ -309,7 +309,19 @@ aws cloudformation create-stack \
 - Manejo de excepciones centralizado
 - Roles y permisos (RBAC)
 
-## 👥 Autor
+## � Parte 2 - SQL (20%)
+
+La solución al punto 2 de la prueba técnica (consultas SQL) se encuentra en:
+
+📁 [`sql/consulta_btg.sql`](sql/consulta_btg.sql)
+
+Este archivo contiene:
+- Creación de tablas (Cliente, Sucursal, Producto, Inscripcion, Disponibilidad, Visitan)
+- Datos de ejemplo para pruebas
+- Consulta solicitada: *"Obtener los nombres de los clientes que tienen inscrito algún producto disponible solo en las sucursales que visitan"*
+- Explicación detallada de la lógica utilizada
+
+## �👥 Autor
 
 **Daniel Camacho Fonseca**
 
