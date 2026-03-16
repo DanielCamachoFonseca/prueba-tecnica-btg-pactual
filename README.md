@@ -92,7 +92,7 @@ btg-funds-api/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/DanielCamachoFonseca/prueba-tecnica-btg-pactual.git
 cd btg-funds-api
 ```
 
